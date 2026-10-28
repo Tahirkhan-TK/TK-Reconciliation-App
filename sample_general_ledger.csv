@@ -1,0 +1,201 @@
+Date,Transaction_ID,Description,Offset_Account_Code,Offset_Account_Name,Debit,Credit,Cumulative_Balance
+2026-01-01,GL-5001,Client Invoice Payment - Acme Corp,4001,Sales Revenue,675.08,0.0,50675.08
+2026-01-02,GL-5002,Payroll Direct Deposit,6005,Payroll Expense,0.0,872.22,49802.86
+2026-01-02,GL-5003,Monthly Office Rent,6002,Operating Expense,0.0,2582.92,47219.94
+2026-01-03,GL-5004,Merchant Fees,6002,Operating Expense,0.0,322.55,46897.39
+2026-01-03,GL-5005,Customer Payment - Retail,4001,Sales Revenue,722.48,0.0,47619.87
+2026-01-04,GL-5006,Client Invoice Payment - Acme Corp,4001,Sales Revenue,2030.47,0.0,49650.34
+2026-01-04,GL-5007,Merchant Fees,6002,Operating Expense,0.0,2115.03,47535.31
+2026-01-05,GL-5008,Merchant Fees,6002,Operating Expense,0.0,711.96,46823.35
+2026-01-05,GL-5009,Merchant Fees,6002,Operating Expense,0.0,1479.93,45343.42
+2026-01-06,GL-5010,Equipment Purchase,1200,Equipment/Assets,0.0,2070.64,43272.78
+2026-01-06,GL-5011,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,2660.65,40612.13
+2026-01-07,GL-5012,Monthly Office Rent,6002,Operating Expense,0.0,2449.53,38162.6
+2026-01-07,GL-5013,Utility Bill - Electricity,6002,Operating Expense,0.0,986.99,37175.61
+2026-01-08,GL-5014,Software Subscription - Cloud Services,6002,Operating Expense,0.0,3351.1,33824.51
+2026-01-08,GL-5015,Utility Bill - Electricity,6002,Operating Expense,0.0,375.69,33448.82
+2026-01-09,GL-5016,Customer Payment - Retail,4001,Sales Revenue,1177.01,0.0,34625.83
+2026-01-09,GL-5017,Utility Bill - Electricity,6002,Operating Expense,0.0,2120.97,32504.86
+2026-01-10,GL-5018,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,2559.47,29945.39
+2026-01-10,GL-5019,Merchant Fees,6002,Operating Expense,0.0,454.4,29490.99
+2026-01-11,GL-5020,Customer Payment - Retail,4001,Sales Revenue,1051.6,0.0,30542.59
+2026-01-11,GL-5021,Payroll Direct Deposit,6005,Payroll Expense,0.0,2906.33,27636.26
+2026-01-12,GL-5022,Tax Remittance,2100,Tax Payable,0.0,3101.37,24534.89
+2026-01-12,GL-5023,Utility Bill - Electricity,6002,Operating Expense,0.0,2029.19,22505.7
+2026-01-13,GL-5024,Client Invoice Payment - Acme Corp,4001,Sales Revenue,820.77,0.0,23326.47
+2026-01-13,GL-5025,Software Subscription - Cloud Services,6002,Operating Expense,0.0,2710.28,20616.19
+2026-01-14,GL-5026,Client Invoice Payment - Acme Corp,4001,Sales Revenue,6487.22,0.0,27103.41
+2026-01-14,GL-5027,Client Invoice Payment - Acme Corp,4001,Sales Revenue,3160.88,0.0,30264.29
+2026-01-15,GL-5028,Equipment Purchase,1200,Equipment/Assets,0.0,2232.18,28032.11
+2026-01-15,GL-5029,Utility Bill - Electricity,6002,Operating Expense,0.0,586.04,27446.07
+2026-01-16,GL-5030,Utility Bill - Electricity,6002,Operating Expense,0.0,749.08,26696.99
+2026-01-16,GL-5031,Payroll Direct Deposit,6005,Payroll Expense,0.0,2462.33,24234.66
+2026-01-17,GL-5032,Client Invoice Payment - Acme Corp,4001,Sales Revenue,4763.92,0.0,28998.58
+2026-01-17,GL-5033,Monthly Office Rent,6002,Operating Expense,0.0,1878.81,27119.77
+2026-01-18,GL-5034,Software Subscription - Cloud Services,6002,Operating Expense,0.0,588.64,26531.13
+2026-01-18,GL-5035,Customer Payment - Retail,4001,Sales Revenue,2389.63,0.0,28920.76
+2026-01-19,GL-5036,Merchant Fees,6002,Operating Expense,0.0,784.26,28136.5
+2026-01-19,GL-5037,Utility Bill - Electricity,6002,Operating Expense,0.0,2953.12,25183.38
+2026-01-20,GL-5038,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,817.09,24366.29
+2026-01-20,GL-5039,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,2821.56,21544.73
+2026-01-21,GL-5040,Customer Payment - Retail,4001,Sales Revenue,2374.19,0.0,23918.92
+2026-01-21,GL-5041,Software Subscription - Cloud Services,6002,Operating Expense,0.0,3197.71,20721.21
+2026-01-22,GL-5042,Tax Remittance,2100,Tax Payable,0.0,3069.76,17651.45
+2026-01-22,GL-5043,Utility Bill - Electricity,6002,Operating Expense,0.0,759.94,16891.51
+2026-01-23,GL-5044,Equipment Purchase,1200,Equipment/Assets,0.0,1396.8,15494.71
+2026-01-23,GL-5045,Equipment Purchase,1200,Equipment/Assets,0.0,517.19,14977.52
+2026-01-24,GL-5046,Monthly Office Rent,6002,Operating Expense,0.0,878.26,14099.26
+2026-01-24,GL-5047,Merchant Fees,6002,Operating Expense,0.0,1895.64,12203.62
+2026-01-25,GL-5048,Tax Remittance,2100,Tax Payable,0.0,1510.95,10692.67
+2026-01-25,GL-5049,Tax Remittance,2100,Tax Payable,0.0,1409.91,9282.76
+2026-01-26,GL-5050,Software Subscription - Cloud Services,6002,Operating Expense,0.0,3490.69,5792.07
+2026-01-26,GL-5051,Monthly Office Rent,6002,Operating Expense,0.0,1793.15,3998.92
+2026-01-27,GL-5052,Client Invoice Payment - Acme Corp,4001,Sales Revenue,5790.48,0.0,9789.4
+2026-01-27,GL-5053,Client Invoice Payment - Acme Corp,4001,Sales Revenue,1569.89,0.0,11359.29
+2026-01-28,GL-5054,Monthly Office Rent,6002,Operating Expense,0.0,2776.44,8582.85
+2026-01-28,GL-5055,Customer Payment - Retail,4001,Sales Revenue,4674.86,0.0,13257.71
+2026-01-29,GL-5056,Customer Payment - Retail,4001,Sales Revenue,3171.34,0.0,16429.05
+2026-01-29,GL-5057,Equipment Purchase,1200,Equipment/Assets,0.0,1861.32,14567.73
+2026-01-30,GL-5058,Merchant Fees,6002,Operating Expense,0.0,3015.51,11552.22
+2026-01-30,GL-5059,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,2387.39,9164.83
+2026-01-31,GL-5060,Client Invoice Payment - Acme Corp,4001,Sales Revenue,5271.97,0.0,14436.8
+2026-01-31,GL-5061,Merchant Fees,6002,Operating Expense,0.0,2633.05,11803.75
+2026-02-01,GL-5062,Utility Bill - Electricity,6002,Operating Expense,0.0,408.2,11395.55
+2026-02-01,GL-5063,Customer Payment - Retail,4001,Sales Revenue,1607.1,0.0,13002.65
+2026-02-02,GL-5064,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,3339.28,9663.37
+2026-02-02,GL-5065,Payroll Direct Deposit,6005,Payroll Expense,0.0,3402.17,6261.2
+2026-02-03,GL-5066,Monthly Office Rent,6002,Operating Expense,0.0,1786.73,4474.47
+2026-02-03,GL-5067,Client Invoice Payment - Acme Corp,4001,Sales Revenue,6593.63,0.0,11068.1
+2026-02-04,GL-5068,Payroll Direct Deposit,6005,Payroll Expense,0.0,2949.01,8119.09
+2026-02-04,GL-5069,Merchant Fees,6002,Operating Expense,0.0,2139.22,5979.87
+2026-02-05,GL-5070,Monthly Office Rent,6002,Operating Expense,0.0,1321.22,4658.65
+2026-02-05,GL-5071,Monthly Office Rent,6002,Operating Expense,0.0,1897.04,2761.61
+2026-02-06,GL-5072,Merchant Fees,6002,Operating Expense,0.0,3216.36,-454.75
+2026-02-06,GL-5073,Tax Remittance,2100,Tax Payable,0.0,1148.06,-1602.81
+2026-02-07,GL-5074,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,409.3,-2012.11
+2026-02-07,GL-5075,Utility Bill - Electricity,6002,Operating Expense,0.0,3077.95,-5090.06
+2026-02-08,GL-5076,Payroll Direct Deposit,6005,Payroll Expense,0.0,853.29,-5943.35
+2026-02-08,GL-5077,Software Subscription - Cloud Services,6002,Operating Expense,0.0,3075.47,-9018.82
+2026-02-09,GL-5078,Client Invoice Payment - Acme Corp,4001,Sales Revenue,1099.57,0.0,-7919.25
+2026-02-09,GL-5079,Equipment Purchase,1200,Equipment/Assets,0.0,2859.76,-10779.01
+2026-02-10,GL-5080,Merchant Fees,6002,Operating Expense,0.0,2685.1,-13464.11
+2026-02-10,GL-5081,Monthly Office Rent,6002,Operating Expense,0.0,2315.93,-15780.04
+2026-02-11,GL-5082,Merchant Fees,6002,Operating Expense,0.0,594.64,-16374.68
+2026-02-11,GL-5083,Merchant Fees,6002,Operating Expense,0.0,3056.07,-19430.75
+2026-02-12,GL-5084,Customer Payment - Retail,4001,Sales Revenue,7250.54,0.0,-12180.21
+2026-02-12,GL-5085,Merchant Fees,6002,Operating Expense,0.0,2648.32,-14828.53
+2026-02-13,GL-5086,Software Subscription - Cloud Services,6002,Operating Expense,0.0,2501.06,-17329.59
+2026-02-13,GL-5087,Customer Payment - Retail,4001,Sales Revenue,7466.05,0.0,-9863.54
+2026-02-14,GL-5088,Utility Bill - Electricity,6002,Operating Expense,0.0,1544.59,-11408.13
+2026-02-14,GL-5089,Merchant Fees,6002,Operating Expense,0.0,1591.17,-12999.3
+2026-02-15,GL-5090,Software Subscription - Cloud Services,6002,Operating Expense,0.0,801.95,-13801.25
+2026-02-15,GL-5091,Utility Bill - Electricity,6002,Operating Expense,0.0,93.2,-13894.45
+2026-02-16,GL-5092,Merchant Fees,6002,Operating Expense,0.0,820.8,-14715.25
+2026-02-16,GL-5093,Software Subscription - Cloud Services,6002,Operating Expense,0.0,45.02,-14760.27
+2026-02-17,GL-5094,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,816.72,-15576.99
+2026-02-17,GL-5095,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,3011.53,-18588.52
+2026-02-18,GL-5096,Client Invoice Payment - Acme Corp,4001,Sales Revenue,4099.09,0.0,-14489.43
+2026-02-18,GL-5097,Payroll Direct Deposit,6005,Payroll Expense,0.0,2348.04,-16837.47
+2026-02-19,GL-5098,Software Subscription - Cloud Services,6002,Operating Expense,0.0,1896.53,-18734.0
+2026-02-19,GL-5099,Tax Remittance,2100,Tax Payable,0.0,2025.22,-20759.22
+2026-02-20,GL-5100,Software Subscription - Cloud Services,6002,Operating Expense,0.0,2750.48,-23509.7
+2026-02-20,GL-5101,Customer Payment - Retail,4001,Sales Revenue,1832.87,0.0,-21676.83
+2026-02-21,GL-5102,Client Invoice Payment - Acme Corp,4001,Sales Revenue,5112.88,0.0,-16563.95
+2026-02-21,GL-5103,Utility Bill - Electricity,6002,Operating Expense,0.0,1494.05,-18058.0
+2026-02-22,GL-5104,Equipment Purchase,1200,Equipment/Assets,0.0,3026.15,-21084.15
+2026-02-22,GL-5105,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,2363.31,-23447.46
+2026-02-23,GL-5106,Client Invoice Payment - Acme Corp,4001,Sales Revenue,924.29,0.0,-22523.17
+2026-02-23,GL-5107,Utility Bill - Electricity,6002,Operating Expense,0.0,2806.06,-25329.23
+2026-02-24,GL-5108,Client Invoice Payment - Acme Corp,4001,Sales Revenue,2240.59,0.0,-23088.64
+2026-02-24,GL-5109,Software Subscription - Cloud Services,6002,Operating Expense,0.0,1886.27,-24974.91
+2026-02-25,GL-5110,Monthly Office Rent,6002,Operating Expense,0.0,1488.15,-26463.06
+2026-02-25,GL-5111,Payroll Direct Deposit,6005,Payroll Expense,0.0,1629.95,-28093.01
+2026-02-26,GL-5112,Client Invoice Payment - Acme Corp,4001,Sales Revenue,3601.92,0.0,-24491.09
+2026-02-26,GL-5113,Merchant Fees,6002,Operating Expense,0.0,360.72,-24851.81
+2026-02-27,GL-5114,Merchant Fees,6002,Operating Expense,0.0,2929.38,-27781.19
+2026-02-27,GL-5115,Client Invoice Payment - Acme Corp,4001,Sales Revenue,6984.57,0.0,-20796.62
+2026-02-28,GL-5116,Software Subscription - Cloud Services,6002,Operating Expense,0.0,598.76,-21395.38
+2026-02-28,GL-5117,Equipment Purchase,1200,Equipment/Assets,0.0,1695.13,-23090.51
+2026-03-01,GL-5118,Customer Payment - Retail,4001,Sales Revenue,6817.1,0.0,-16273.41
+2026-03-01,GL-5119,Monthly Office Rent,6002,Operating Expense,0.0,1338.83,-17612.24
+2026-03-02,GL-5120,Customer Payment - Retail,4001,Sales Revenue,2356.42,0.0,-15255.82
+2026-03-02,GL-5121,Equipment Purchase,1200,Equipment/Assets,0.0,1012.67,-16268.49
+2026-03-03,GL-5122,Merchant Fees,6002,Operating Expense,0.0,2323.31,-18591.8
+2026-03-03,GL-5123,Equipment Purchase,1200,Equipment/Assets,0.0,558.69,-19150.49
+2026-03-04,GL-5124,Payroll Direct Deposit,6005,Payroll Expense,0.0,777.6,-19928.09
+2026-03-04,GL-5125,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,2035.55,-21963.64
+2026-03-05,GL-5126,Merchant Fees,6002,Operating Expense,0.0,232.13,-22195.77
+2026-03-05,GL-5127,Utility Bill - Electricity,6002,Operating Expense,0.0,218.94,-22414.71
+2026-03-06,GL-5128,Tax Remittance,2100,Tax Payable,0.0,1679.22,-24093.93
+2026-03-06,GL-5129,Merchant Fees,6002,Operating Expense,0.0,567.87,-24661.8
+2026-03-07,GL-5130,Merchant Fees,6002,Operating Expense,0.0,298.79,-24960.59
+2026-03-07,GL-5131,Monthly Office Rent,6002,Operating Expense,0.0,258.45,-25219.04
+2026-03-08,GL-5132,Client Invoice Payment - Acme Corp,4001,Sales Revenue,5226.49,0.0,-19992.55
+2026-03-08,GL-5133,Software Subscription - Cloud Services,6002,Operating Expense,0.0,1425.14,-21417.69
+2026-03-09,GL-5134,Tax Remittance,2100,Tax Payable,0.0,876.83,-22294.52
+2026-03-09,GL-5135,Tax Remittance,2100,Tax Payable,0.0,158.3,-22452.82
+2026-03-10,GL-5136,Client Invoice Payment - Acme Corp,4001,Sales Revenue,3434.57,0.0,-19018.25
+2026-03-10,GL-5137,Tax Remittance,2100,Tax Payable,0.0,1986.99,-21005.24
+2026-03-11,GL-5138,Utility Bill - Electricity,6002,Operating Expense,0.0,3272.78,-24278.02
+2026-03-11,GL-5139,Software Subscription - Cloud Services,6002,Operating Expense,0.0,2350.65,-26628.67
+2026-03-12,GL-5140,Utility Bill - Electricity,6002,Operating Expense,0.0,850.63,-27479.3
+2026-03-12,GL-5141,Customer Payment - Retail,4001,Sales Revenue,1416.15,0.0,-26063.15
+2026-03-13,GL-5142,Payroll Direct Deposit,6005,Payroll Expense,0.0,1611.14,-27674.29
+2026-03-13,GL-5143,Client Invoice Payment - Acme Corp,4001,Sales Revenue,565.21,0.0,-27109.08
+2026-03-14,GL-5144,Tax Remittance,2100,Tax Payable,0.0,3494.62,-30603.7
+2026-03-14,GL-5145,Client Invoice Payment - Acme Corp,4001,Sales Revenue,1012.83,0.0,-29590.87
+2026-03-15,GL-5146,Software Subscription - Cloud Services,6002,Operating Expense,0.0,1780.48,-31371.35
+2026-03-15,GL-5147,Monthly Office Rent,6002,Operating Expense,0.0,3267.74,-34639.09
+2026-03-16,GL-5148,Client Invoice Payment - Acme Corp,4001,Sales Revenue,6654.89,0.0,-27984.2
+2026-03-16,GL-5149,Utility Bill - Electricity,6002,Operating Expense,0.0,1011.76,-28995.96
+2026-03-17,GL-5150,Equipment Purchase,1200,Equipment/Assets,0.0,2921.43,-31917.39
+2026-03-17,GL-5151,Payroll Direct Deposit,6005,Payroll Expense,0.0,2148.64,-34066.03
+2026-03-18,GL-5152,Merchant Fees,6002,Operating Expense,0.0,47.22,-34113.25
+2026-03-18,GL-5153,Merchant Fees,6002,Operating Expense,0.0,1061.84,-35175.09
+2026-03-19,GL-5154,Client Invoice Payment - Acme Corp,4001,Sales Revenue,7072.51,0.0,-28102.58
+2026-03-19,GL-5155,Monthly Office Rent,6002,Operating Expense,0.0,940.34,-29042.92
+2026-03-20,GL-5156,Client Invoice Payment - Acme Corp,4001,Sales Revenue,5696.92,0.0,-23346.0
+2026-03-20,GL-5157,Monthly Office Rent,6002,Operating Expense,0.0,967.77,-24313.77
+2026-03-21,GL-5158,Tax Remittance,2100,Tax Payable,0.0,752.99,-25066.76
+2026-03-21,GL-5159,Utility Bill - Electricity,6002,Operating Expense,0.0,728.52,-25795.28
+2026-03-22,GL-5160,Payroll Direct Deposit,6005,Payroll Expense,0.0,1778.82,-27574.1
+2026-03-22,GL-5161,Payroll Direct Deposit,6005,Payroll Expense,0.0,3170.57,-30744.67
+2026-03-23,GL-5162,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,341.2,-31085.87
+2026-03-23,GL-5163,Customer Payment - Retail,4001,Sales Revenue,6305.44,0.0,-24780.43
+2026-03-24,GL-5164,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,32.34,-24812.77
+2026-03-24,GL-5165,Monthly Office Rent,6002,Operating Expense,0.0,2237.15,-27049.92
+2026-03-25,GL-5166,Payroll Direct Deposit,6005,Payroll Expense,0.0,582.31,-27632.23
+2026-03-25,GL-5167,Equipment Purchase,1200,Equipment/Assets,0.0,1939.85,-29572.08
+2026-03-26,GL-5168,Customer Payment - Retail,4001,Sales Revenue,4426.35,0.0,-25145.73
+2026-03-26,GL-5169,Client Invoice Payment - Acme Corp,4001,Sales Revenue,1026.71,0.0,-24119.02
+2026-03-27,GL-5170,Monthly Office Rent,6002,Operating Expense,0.0,1918.65,-26037.67
+2026-03-27,GL-5171,Utility Bill - Electricity,6002,Operating Expense,0.0,2047.13,-28084.8
+2026-03-28,GL-5172,Monthly Office Rent,6002,Operating Expense,0.0,1515.66,-29600.46
+2026-03-28,GL-5173,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,1092.74,-30693.2
+2026-03-29,GL-5174,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,3148.26,-33841.46
+2026-03-29,GL-5175,Software Subscription - Cloud Services,6002,Operating Expense,0.0,2393.59,-36235.05
+2026-03-30,GL-5176,Client Invoice Payment - Acme Corp,4001,Sales Revenue,2975.75,0.0,-33259.3
+2026-03-30,GL-5177,Merchant Fees,6002,Operating Expense,0.0,3096.79,-36356.09
+2026-03-31,GL-5178,Customer Payment - Retail,4001,Sales Revenue,7316.86,0.0,-29039.23
+2026-03-31,GL-5179,Monthly Office Rent,6002,Operating Expense,0.0,3241.66,-32280.89
+2026-04-01,GL-5180,Software Subscription - Cloud Services,6002,Operating Expense,0.0,3028.83,-35309.72
+2026-04-01,GL-5181,Monthly Office Rent,6002,Operating Expense,0.0,3087.33,-38397.05
+2026-04-02,GL-5182,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,644.18,-39041.23
+2026-04-02,GL-5183,Utility Bill - Electricity,6002,Operating Expense,0.0,2742.71,-41783.94
+2026-04-03,GL-5184,Customer Payment - Retail,4001,Sales Revenue,6115.65,0.0,-35668.29
+2026-04-03,GL-5185,Software Subscription - Cloud Services,6002,Operating Expense,0.0,948.48,-36616.77
+2026-04-04,GL-5186,Client Invoice Payment - Acme Corp,4001,Sales Revenue,3177.79,0.0,-33438.98
+2026-04-04,GL-5187,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,3007.9,-36446.88
+2026-04-05,GL-5188,Software Subscription - Cloud Services,6002,Operating Expense,0.0,714.51,-37161.39
+2026-04-05,GL-5189,Equipment Purchase,1200,Equipment/Assets,0.0,1236.81,-38398.2
+2026-04-06,GL-5190,Software Subscription - Cloud Services,6002,Operating Expense,0.0,795.77,-39193.97
+2026-04-06,GL-5191,Software Subscription - Cloud Services,6002,Operating Expense,0.0,1406.66,-40600.63
+2026-04-07,GL-5192,Payroll Direct Deposit,6005,Payroll Expense,0.0,3027.95,-43628.58
+2026-04-07,GL-5193,Payroll Direct Deposit,6005,Payroll Expense,0.0,1241.99,-44870.57
+2026-04-08,GL-5194,Merchant Fees,6002,Operating Expense,0.0,1410.88,-46281.45
+2026-04-08,GL-5195,Merchant Fees,6002,Operating Expense,0.0,1172.4,-47453.85
+2026-04-09,GL-5196,Vendor Payout - Office Supplies,6002,Operating Expense,0.0,421.39,-47875.24
+2026-04-09,GL-5197,Payroll Direct Deposit,6005,Payroll Expense,0.0,641.42,-48516.66
+2026-04-10,GL-5198,Payroll Direct Deposit,6005,Payroll Expense,0.0,153.14,-48669.8
+2026-04-10,GL-5199,Tax Remittance,2100,Tax Payable,0.0,1532.28,-50202.08
+2026-04-11,GL-5200,Utility Bill - Electricity,6002,Operating Expense,0.0,1538.65,-51740.73

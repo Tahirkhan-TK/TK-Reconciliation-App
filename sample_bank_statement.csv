@@ -1,0 +1,201 @@
+Date,Reference_ID,Description,Debit,Credit,Balance
+2026-01-01,TXN-1001,Client Invoice Payment - Acme Corp,0.0,675.08,50675.08
+2026-01-02,TXN-1002,Payroll Direct Deposit,872.22,0.0,49802.86
+2026-01-02,TXN-1003,Monthly Office Rent,2582.92,0.0,47219.94
+2026-01-03,TXN-1004,Merchant Fees,322.55,0.0,46897.39
+2026-01-03,TXN-1005,Customer Payment - Retail,0.0,722.48,47619.87
+2026-01-04,TXN-1006,Client Invoice Payment - Acme Corp,0.0,2030.47,49650.34
+2026-01-04,TXN-1007,Merchant Fees,2115.03,0.0,47535.31
+2026-01-05,TXN-1008,Merchant Fees,711.96,0.0,46823.35
+2026-01-05,TXN-1009,Merchant Fees,1479.93,0.0,45343.42
+2026-01-06,TXN-1010,Equipment Purchase,2070.64,0.0,43272.78
+2026-01-06,TXN-1011,Vendor Payout - Office Supplies,2660.65,0.0,40612.13
+2026-01-07,TXN-1012,Monthly Office Rent,2449.53,0.0,38162.6
+2026-01-07,TXN-1013,Utility Bill - Electricity,986.99,0.0,37175.61
+2026-01-08,TXN-1014,Software Subscription - Cloud Services,3351.1,0.0,33824.51
+2026-01-08,TXN-1015,Utility Bill - Electricity,375.69,0.0,33448.82
+2026-01-09,TXN-1016,Customer Payment - Retail,0.0,1177.01,34625.83
+2026-01-09,TXN-1017,Utility Bill - Electricity,2120.97,0.0,32504.86
+2026-01-10,TXN-1018,Vendor Payout - Office Supplies,2559.47,0.0,29945.39
+2026-01-10,TXN-1019,Merchant Fees,454.4,0.0,29490.99
+2026-01-11,TXN-1020,Customer Payment - Retail,0.0,1051.6,30542.59
+2026-01-11,TXN-1021,Payroll Direct Deposit,2906.33,0.0,27636.26
+2026-01-12,TXN-1022,Tax Remittance,3101.37,0.0,24534.89
+2026-01-12,TXN-1023,Utility Bill - Electricity,2029.19,0.0,22505.7
+2026-01-13,TXN-1024,Client Invoice Payment - Acme Corp,0.0,820.77,23326.47
+2026-01-13,TXN-1025,Software Subscription - Cloud Services,2710.28,0.0,20616.19
+2026-01-14,TXN-1026,Client Invoice Payment - Acme Corp,0.0,6487.22,27103.41
+2026-01-14,TXN-1027,Client Invoice Payment - Acme Corp,0.0,3160.88,30264.29
+2026-01-15,TXN-1028,Equipment Purchase,2232.18,0.0,28032.11
+2026-01-15,TXN-1029,Utility Bill - Electricity,586.04,0.0,27446.07
+2026-01-16,TXN-1030,Utility Bill - Electricity,749.08,0.0,26696.99
+2026-01-16,TXN-1031,Payroll Direct Deposit,2462.33,0.0,24234.66
+2026-01-17,TXN-1032,Client Invoice Payment - Acme Corp,0.0,4763.92,28998.58
+2026-01-17,TXN-1033,Monthly Office Rent,1878.81,0.0,27119.77
+2026-01-18,TXN-1034,Software Subscription - Cloud Services,588.64,0.0,26531.13
+2026-01-18,TXN-1035,Customer Payment - Retail,0.0,2389.63,28920.76
+2026-01-19,TXN-1036,Merchant Fees,784.26,0.0,28136.5
+2026-01-19,TXN-1037,Utility Bill - Electricity,2953.12,0.0,25183.38
+2026-01-20,TXN-1038,Vendor Payout - Office Supplies,817.09,0.0,24366.29
+2026-01-20,TXN-1039,Vendor Payout - Office Supplies,2821.56,0.0,21544.73
+2026-01-21,TXN-1040,Customer Payment - Retail,0.0,2374.19,23918.92
+2026-01-21,TXN-1041,Software Subscription - Cloud Services,3197.71,0.0,20721.21
+2026-01-22,TXN-1042,Tax Remittance,3069.76,0.0,17651.45
+2026-01-22,TXN-1043,Utility Bill - Electricity,759.94,0.0,16891.51
+2026-01-23,TXN-1044,Equipment Purchase,1396.8,0.0,15494.71
+2026-01-23,TXN-1045,Equipment Purchase,517.19,0.0,14977.52
+2026-01-24,TXN-1046,Monthly Office Rent,878.26,0.0,14099.26
+2026-01-24,TXN-1047,Merchant Fees,1895.64,0.0,12203.62
+2026-01-25,TXN-1048,Tax Remittance,1510.95,0.0,10692.67
+2026-01-25,TXN-1049,Tax Remittance,1409.91,0.0,9282.76
+2026-01-26,TXN-1050,Software Subscription - Cloud Services,3490.69,0.0,5792.07
+2026-01-26,TXN-1051,Monthly Office Rent,1793.15,0.0,3998.92
+2026-01-27,TXN-1052,Client Invoice Payment - Acme Corp,0.0,5790.48,9789.4
+2026-01-27,TXN-1053,Client Invoice Payment - Acme Corp,0.0,1569.89,11359.29
+2026-01-28,TXN-1054,Monthly Office Rent,2776.44,0.0,8582.85
+2026-01-28,TXN-1055,Customer Payment - Retail,0.0,4674.86,13257.71
+2026-01-29,TXN-1056,Customer Payment - Retail,0.0,3171.34,16429.05
+2026-01-29,TXN-1057,Equipment Purchase,1861.32,0.0,14567.73
+2026-01-30,TXN-1058,Merchant Fees,3015.51,0.0,11552.22
+2026-01-30,TXN-1059,Vendor Payout - Office Supplies,2387.39,0.0,9164.83
+2026-01-31,TXN-1060,Client Invoice Payment - Acme Corp,0.0,5271.97,14436.8
+2026-01-31,TXN-1061,Merchant Fees,2633.05,0.0,11803.75
+2026-02-01,TXN-1062,Utility Bill - Electricity,408.2,0.0,11395.55
+2026-02-01,TXN-1063,Customer Payment - Retail,0.0,1607.1,13002.65
+2026-02-02,TXN-1064,Vendor Payout - Office Supplies,3339.28,0.0,9663.37
+2026-02-02,TXN-1065,Payroll Direct Deposit,3402.17,0.0,6261.2
+2026-02-03,TXN-1066,Monthly Office Rent,1786.73,0.0,4474.47
+2026-02-03,TXN-1067,Client Invoice Payment - Acme Corp,0.0,6593.63,11068.1
+2026-02-04,TXN-1068,Payroll Direct Deposit,2949.01,0.0,8119.09
+2026-02-04,TXN-1069,Merchant Fees,2139.22,0.0,5979.87
+2026-02-05,TXN-1070,Monthly Office Rent,1321.22,0.0,4658.65
+2026-02-05,TXN-1071,Monthly Office Rent,1897.04,0.0,2761.61
+2026-02-06,TXN-1072,Merchant Fees,3216.36,0.0,-454.75
+2026-02-06,TXN-1073,Tax Remittance,1148.06,0.0,-1602.81
+2026-02-07,TXN-1074,Vendor Payout - Office Supplies,409.3,0.0,-2012.11
+2026-02-07,TXN-1075,Utility Bill - Electricity,3077.95,0.0,-5090.06
+2026-02-08,TXN-1076,Payroll Direct Deposit,853.29,0.0,-5943.35
+2026-02-08,TXN-1077,Software Subscription - Cloud Services,3075.47,0.0,-9018.82
+2026-02-09,TXN-1078,Client Invoice Payment - Acme Corp,0.0,1099.57,-7919.25
+2026-02-09,TXN-1079,Equipment Purchase,2859.76,0.0,-10779.01
+2026-02-10,TXN-1080,Merchant Fees,2685.1,0.0,-13464.11
+2026-02-10,TXN-1081,Monthly Office Rent,2315.93,0.0,-15780.04
+2026-02-11,TXN-1082,Merchant Fees,594.64,0.0,-16374.68
+2026-02-11,TXN-1083,Merchant Fees,3056.07,0.0,-19430.75
+2026-02-12,TXN-1084,Customer Payment - Retail,0.0,7250.54,-12180.21
+2026-02-12,TXN-1085,Merchant Fees,2648.32,0.0,-14828.53
+2026-02-13,TXN-1086,Software Subscription - Cloud Services,2501.06,0.0,-17329.59
+2026-02-13,TXN-1087,Customer Payment - Retail,0.0,7466.05,-9863.54
+2026-02-14,TXN-1088,Utility Bill - Electricity,1544.59,0.0,-11408.13
+2026-02-14,TXN-1089,Merchant Fees,1591.17,0.0,-12999.3
+2026-02-15,TXN-1090,Software Subscription - Cloud Services,801.95,0.0,-13801.25
+2026-02-15,TXN-1091,Utility Bill - Electricity,93.2,0.0,-13894.45
+2026-02-16,TXN-1092,Merchant Fees,820.8,0.0,-14715.25
+2026-02-16,TXN-1093,Software Subscription - Cloud Services,45.02,0.0,-14760.27
+2026-02-17,TXN-1094,Vendor Payout - Office Supplies,816.72,0.0,-15576.99
+2026-02-17,TXN-1095,Vendor Payout - Office Supplies,3011.53,0.0,-18588.52
+2026-02-18,TXN-1096,Client Invoice Payment - Acme Corp,0.0,4099.09,-14489.43
+2026-02-18,TXN-1097,Payroll Direct Deposit,2348.04,0.0,-16837.47
+2026-02-19,TXN-1098,Software Subscription - Cloud Services,1896.53,0.0,-18734.0
+2026-02-19,TXN-1099,Tax Remittance,2025.22,0.0,-20759.22
+2026-02-20,TXN-1100,Software Subscription - Cloud Services,2750.48,0.0,-23509.7
+2026-02-20,TXN-1101,Customer Payment - Retail,0.0,1832.87,-21676.83
+2026-02-21,TXN-1102,Client Invoice Payment - Acme Corp,0.0,5112.88,-16563.95
+2026-02-21,TXN-1103,Utility Bill - Electricity,1494.05,0.0,-18058.0
+2026-02-22,TXN-1104,Equipment Purchase,3026.15,0.0,-21084.15
+2026-02-22,TXN-1105,Vendor Payout - Office Supplies,2363.31,0.0,-23447.46
+2026-02-23,TXN-1106,Client Invoice Payment - Acme Corp,0.0,924.29,-22523.17
+2026-02-23,TXN-1107,Utility Bill - Electricity,2806.06,0.0,-25329.23
+2026-02-24,TXN-1108,Client Invoice Payment - Acme Corp,0.0,2240.59,-23088.64
+2026-02-24,TXN-1109,Software Subscription - Cloud Services,1886.27,0.0,-24974.91
+2026-02-25,TXN-1110,Monthly Office Rent,1488.15,0.0,-26463.06
+2026-02-25,TXN-1111,Payroll Direct Deposit,1629.95,0.0,-28093.01
+2026-02-26,TXN-1112,Client Invoice Payment - Acme Corp,0.0,3601.92,-24491.09
+2026-02-26,TXN-1113,Merchant Fees,360.72,0.0,-24851.81
+2026-02-27,TXN-1114,Merchant Fees,2929.38,0.0,-27781.19
+2026-02-27,TXN-1115,Client Invoice Payment - Acme Corp,0.0,6984.57,-20796.62
+2026-02-28,TXN-1116,Software Subscription - Cloud Services,598.76,0.0,-21395.38
+2026-02-28,TXN-1117,Equipment Purchase,1695.13,0.0,-23090.51
+2026-03-01,TXN-1118,Customer Payment - Retail,0.0,6817.1,-16273.41
+2026-03-01,TXN-1119,Monthly Office Rent,1338.83,0.0,-17612.24
+2026-03-02,TXN-1120,Customer Payment - Retail,0.0,2356.42,-15255.82
+2026-03-02,TXN-1121,Equipment Purchase,1012.67,0.0,-16268.49
+2026-03-03,TXN-1122,Merchant Fees,2323.31,0.0,-18591.8
+2026-03-03,TXN-1123,Equipment Purchase,558.69,0.0,-19150.49
+2026-03-04,TXN-1124,Payroll Direct Deposit,777.6,0.0,-19928.09
+2026-03-04,TXN-1125,Vendor Payout - Office Supplies,2035.55,0.0,-21963.64
+2026-03-05,TXN-1126,Merchant Fees,232.13,0.0,-22195.77
+2026-03-05,TXN-1127,Utility Bill - Electricity,218.94,0.0,-22414.71
+2026-03-06,TXN-1128,Tax Remittance,1679.22,0.0,-24093.93
+2026-03-06,TXN-1129,Merchant Fees,567.87,0.0,-24661.8
+2026-03-07,TXN-1130,Merchant Fees,298.79,0.0,-24960.59
+2026-03-07,TXN-1131,Monthly Office Rent,258.45,0.0,-25219.04
+2026-03-08,TXN-1132,Client Invoice Payment - Acme Corp,0.0,5226.49,-19992.55
+2026-03-08,TXN-1133,Software Subscription - Cloud Services,1425.14,0.0,-21417.69
+2026-03-09,TXN-1134,Tax Remittance,876.83,0.0,-22294.52
+2026-03-09,TXN-1135,Tax Remittance,158.3,0.0,-22452.82
+2026-03-10,TXN-1136,Client Invoice Payment - Acme Corp,0.0,3434.57,-19018.25
+2026-03-10,TXN-1137,Tax Remittance,1986.99,0.0,-21005.24
+2026-03-11,TXN-1138,Utility Bill - Electricity,3272.78,0.0,-24278.02
+2026-03-11,TXN-1139,Software Subscription - Cloud Services,2350.65,0.0,-26628.67
+2026-03-12,TXN-1140,Utility Bill - Electricity,850.63,0.0,-27479.3
+2026-03-12,TXN-1141,Customer Payment - Retail,0.0,1416.15,-26063.15
+2026-03-13,TXN-1142,Payroll Direct Deposit,1611.14,0.0,-27674.29
+2026-03-13,TXN-1143,Client Invoice Payment - Acme Corp,0.0,565.21,-27109.08
+2026-03-14,TXN-1144,Tax Remittance,3494.62,0.0,-30603.7
+2026-03-14,TXN-1145,Client Invoice Payment - Acme Corp,0.0,1012.83,-29590.87
+2026-03-15,TXN-1146,Software Subscription - Cloud Services,1780.48,0.0,-31371.35
+2026-03-15,TXN-1147,Monthly Office Rent,3267.74,0.0,-34639.09
+2026-03-16,TXN-1148,Client Invoice Payment - Acme Corp,0.0,6654.89,-27984.2
+2026-03-16,TXN-1149,Utility Bill - Electricity,1011.76,0.0,-28995.96
+2026-03-17,TXN-1150,Equipment Purchase,2921.43,0.0,-31917.39
+2026-03-17,TXN-1151,Payroll Direct Deposit,2148.64,0.0,-34066.03
+2026-03-18,TXN-1152,Merchant Fees,47.22,0.0,-34113.25
+2026-03-18,TXN-1153,Merchant Fees,1061.84,0.0,-35175.09
+2026-03-19,TXN-1154,Client Invoice Payment - Acme Corp,0.0,7072.51,-28102.58
+2026-03-19,TXN-1155,Monthly Office Rent,940.34,0.0,-29042.92
+2026-03-20,TXN-1156,Client Invoice Payment - Acme Corp,0.0,5696.92,-23346.0
+2026-03-20,TXN-1157,Monthly Office Rent,967.77,0.0,-24313.77
+2026-03-21,TXN-1158,Tax Remittance,752.99,0.0,-25066.76
+2026-03-21,TXN-1159,Utility Bill - Electricity,728.52,0.0,-25795.28
+2026-03-22,TXN-1160,Payroll Direct Deposit,1778.82,0.0,-27574.1
+2026-03-22,TXN-1161,Payroll Direct Deposit,3170.57,0.0,-30744.67
+2026-03-23,TXN-1162,Vendor Payout - Office Supplies,341.2,0.0,-31085.87
+2026-03-23,TXN-1163,Customer Payment - Retail,0.0,6305.44,-24780.43
+2026-03-24,TXN-1164,Vendor Payout - Office Supplies,32.34,0.0,-24812.77
+2026-03-24,TXN-1165,Monthly Office Rent,2237.15,0.0,-27049.92
+2026-03-25,TXN-1166,Payroll Direct Deposit,582.31,0.0,-27632.23
+2026-03-25,TXN-1167,Equipment Purchase,1939.85,0.0,-29572.08
+2026-03-26,TXN-1168,Customer Payment - Retail,0.0,4426.35,-25145.73
+2026-03-26,TXN-1169,Client Invoice Payment - Acme Corp,0.0,1026.71,-24119.02
+2026-03-27,TXN-1170,Monthly Office Rent,1918.65,0.0,-26037.67
+2026-03-27,TXN-1171,Utility Bill - Electricity,2047.13,0.0,-28084.8
+2026-03-28,TXN-1172,Monthly Office Rent,1515.66,0.0,-29600.46
+2026-03-28,TXN-1173,Vendor Payout - Office Supplies,1092.74,0.0,-30693.2
+2026-03-29,TXN-1174,Vendor Payout - Office Supplies,3148.26,0.0,-33841.46
+2026-03-29,TXN-1175,Software Subscription - Cloud Services,2393.59,0.0,-36235.05
+2026-03-30,TXN-1176,Client Invoice Payment - Acme Corp,0.0,2975.75,-33259.3
+2026-03-30,TXN-1177,Merchant Fees,3096.79,0.0,-36356.09
+2026-03-31,TXN-1178,Customer Payment - Retail,0.0,7316.86,-29039.23
+2026-03-31,TXN-1179,Monthly Office Rent,3241.66,0.0,-32280.89
+2026-04-01,TXN-1180,Software Subscription - Cloud Services,3028.83,0.0,-35309.72
+2026-04-01,TXN-1181,Monthly Office Rent,3087.33,0.0,-38397.05
+2026-04-02,TXN-1182,Vendor Payout - Office Supplies,644.18,0.0,-39041.23
+2026-04-02,TXN-1183,Utility Bill - Electricity,2742.71,0.0,-41783.94
+2026-04-03,TXN-1184,Customer Payment - Retail,0.0,6115.65,-35668.29
+2026-04-03,TXN-1185,Software Subscription - Cloud Services,948.48,0.0,-36616.77
+2026-04-04,TXN-1186,Client Invoice Payment - Acme Corp,0.0,3177.79,-33438.98
+2026-04-04,TXN-1187,Vendor Payout - Office Supplies,3007.9,0.0,-36446.88
+2026-04-05,TXN-1188,Software Subscription - Cloud Services,714.51,0.0,-37161.39
+2026-04-05,TXN-1189,Equipment Purchase,1236.81,0.0,-38398.2
+2026-04-06,TXN-1190,Software Subscription - Cloud Services,795.77,0.0,-39193.97
+2026-04-06,TXN-1191,Software Subscription - Cloud Services,1406.66,0.0,-40600.63
+2026-04-07,TXN-1192,Payroll Direct Deposit,3027.95,0.0,-43628.58
+2026-04-07,TXN-1193,Payroll Direct Deposit,1241.99,0.0,-44870.57
+2026-04-08,TXN-1194,Merchant Fees,1410.88,0.0,-46281.45
+2026-04-08,TXN-1195,Merchant Fees,1172.4,0.0,-47453.85
+2026-04-09,TXN-1196,Vendor Payout - Office Supplies,421.39,0.0,-47875.24
+2026-04-09,TXN-1197,Payroll Direct Deposit,641.42,0.0,-48516.66
+2026-04-10,TXN-1198,Payroll Direct Deposit,153.14,0.0,-48669.8
+2026-04-10,TXN-1199,Tax Remittance,1532.28,0.0,-50202.08
+2026-04-11,TXN-1200,Utility Bill - Electricity,1538.65,0.0,-51740.73
